@@ -1,5 +1,4 @@
-import pandas as pd
-import numpy as np
+# Removed unnecessary imports
 
 # Example arrays
 Prices = [[300, 500],
